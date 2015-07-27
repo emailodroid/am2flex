@@ -1,2 +1,2 @@
 # am2flex
-Javascript elements based on Jquery
+Javascript tools for am2studio
